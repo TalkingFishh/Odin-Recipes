@@ -1,0 +1,11 @@
+@font-face {
+    font-family: LucidaConsole;
+    src: url(fonts/lucon.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: LucidaConsole;
+    background: #fff9d4;
+}

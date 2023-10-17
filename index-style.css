@@ -1,0 +1,29 @@
+@font-face {
+    font-family: LucidaConsole;
+    src: url(fonts/lucon.ttf) format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: LucidaConsole;
+    background: #fff9d4;
+}
+
+.list-center, ol, ul {
+    width: 20%;
+    margin-left: 42%;
+    margin-right: 42%;
+    word-spacing: 2px;
+}
+
+p, h3, .tcenter {
+    text-align: center;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
